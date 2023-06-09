@@ -1,5 +1,5 @@
 # Machine_Learning
 
-Machine learning code
+Machine learning code I wrote
 
 Some code chunks are ommitted for confidential reasons
